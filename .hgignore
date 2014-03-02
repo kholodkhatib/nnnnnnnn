@@ -1,0 +1,7 @@
+syntax: glob
+*/bin/*
+*/obj/*
+packages/*
+Sqlite EntityFramework/x64/SQLite.Interop.dll
+Sqlite EntityFramework/x86/SQLite.Interop.dll
+*.suo
